@@ -2,11 +2,10 @@
 
 ![Profile Banner](https://media.licdn.com/dms/image/v2/D4E16AQHk3DhuCwPHEg/profile-displaybackgroundimage-shrink_350_1400/B4EZiX74reGYAc-/0/1754895715614?e=1757548800&v=beta&t=MwEYt4MHKn_-cEkngZHVdlNAVDZ63-uaLce7e6bRy_A) 
 
-Full-Stack Engineer based in Osaka, Japan | Specializing in TypeScript, Next.js, Python, Generative AI (GenAI), RAG Systems, and LangChain | Open to visa sponsorship and roles in innovative tech teams.
+Full-Stack Engineer based in Osaka, Japan | Specializing in TypeScript, Next.js, Python, Generative AI (GenAI), RAG Systems, and LangChain
 
-- 🌍 **Location**: Greater Osaka Area, Japan (Working Holiday Visa – seeking sponsorship)
+- 🌍 **Location**: Greater Osaka Area, Japan
 - 🔗 **Links**: [LinkedIn](https://www.linkedin.com/in/nathan-rihet) | [Portfolio Website](https://nathanglhf.com/biography/) | [Email](mailto:nathan.rihet06@gmail.com)
-- 💼 **Open to**: Full-Stack, Backend, or AI Engineer roles | Remote or On-site in Japan
 - 📈 **Stats**:
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NathanKneT&show_icons=true&theme=radical)
