@@ -15,7 +15,7 @@ Key Skills: TypeScript, React, Next.js, Python (FastAPI, LangChain), GenAI, RAG,
 - **[RTHT-3D](https://github.com/NathanKneT/RTHT-3D)**: Real-time hand-tracking in Python to control Blender 3D scenes. [More than 300k views here](https://www.instagram.com/p/DJLriUMSSpy/)
 - **[NarrativeForge-nextjs](https://github.com/NathanKneT/NarrativeForge-nextjs)**: Interactive storytelling app using Next.js 14, TypeScript, React, and OpenAI GPT-4. 
 - **[Master-AI-Chatbot-Course-2024](https://github.com/NathanKneT/Master-AI-Chatbot-Course-2024)**: Workshop materials for building conversational agents with Python, FastAPI, and LangChain.
-~~- **[DocsRetriever](https://docsretriever.com/)**: Enterprise-grade document search assistant built 100% in France for GDPR compliance. Using Langchain, React and python~~
+- ~~**[DocsRetriever](https://docsretriever.com/)**: Enterprise-grade document search assistant built 100% in France for GDPR compliance. Using Langchain, React and python~~
 
 ## Tech Stack
 | Category | Technologies |
