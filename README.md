@@ -4,9 +4,6 @@ Full-Stack Engineer based in Osaka, Japan | Specializing in TypeScript, Next.js,
 
 - 🌍 **Location**: Osaka, Japan
 - 🔗 **Links**: [LinkedIn](https://www.linkedin.com/in/nathan-rihet) | [Portfolio Website](https://nathanglhf.com/biography/) | [Email](mailto:nathan.rihet06@gmail.com)
-- 📈 **Stats**:
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NathanKneT&show_icons=true&theme=radical)
 
 ## About Me
 With 3+ years building scalable web apps and AI solutions, I've launched a GenAI SaaS (DocsRetriever) serving enterprise clients, architected RAG systems for 10K+ documents (<2s response), and optimized APIs by 60% at Capgemini. Passionate about blending TypeScript/Next.js frontend with Python/FastAPI backend for next-gen apps.
@@ -27,7 +24,3 @@ Key Skills: TypeScript, React, Next.js, Python (FastAPI, LangChain), GenAI, RAG,
 | Backend/AI | Python, FastAPI, NestJS, LangChain, RAG Systems, OpenAI |
 | DevOps | Docker, GitHub Actions, AWS, Terraform |
 | Other | MongoDB, MIDI, ML (Isolation Forest) |
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NathanKneT&layout=compact&theme=radical)
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=NathanKneT.NathanKneT) <!-- Compteur de visites -->
