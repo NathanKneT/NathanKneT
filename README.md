@@ -1,26 +1,53 @@
-# Hi, I'm Nathan Rihet 👋
+# Nathan Rihet
 
-Full-Stack Engineer based in Osaka, Japan | Specializing in TypeScript, Next.js, Python and AI
+Full Stack Engineer in Osaka, Japan.
 
-- 🌍 **Location**: Osaka, Japan
-- 🔗 **Links**: [LinkedIn](https://www.linkedin.com/in/nathan-rihet) | [Portfolio Website](https://nathanglhf.com/biography/) | [Email](mailto:nathan.rihet06@gmail.com)
+I build full-stack products where interfaces, APIs and data workflows need to
+operate as one reliable system. My main tools are **TypeScript, Next.js, Python
+and FastAPI**, with experience in applied AI, automated testing, cloud
+infrastructure and CI/CD.
 
-## About Me
-With 3+ years building scalable web apps and AI solutions, I've launched a GenAI SaaS (DocsRetriever) serving enterprise clients, architected RAG systems for 10K+ documents (<2s response), and optimized APIs by 60% at Capgemini. Passionate about blending TypeScript/Next.js frontend with Python/FastAPI backend for next-gen apps.
+## Current focus
 
-Key Skills: TypeScript, React, Next.js, Python (FastAPI, LangChain), GenAI, RAG, Docker, AWS, CI/CD.
+At **Rokken**, I contribute to medical-imaging and applied-AI products across
+frontend, backend, testing and delivery. I describe this work publicly at the
+technology and responsibility level while keeping customer and product details
+private.
 
-## Featured Projects
+## Selected work
 
-- **[RTHT-3D](https://github.com/NathanKneT/RTHT-3D)**: Real-time hand-tracking in Python to control Blender 3D scenes. [More than 300k views here](https://www.instagram.com/p/DJLriUMSSpy/)
-- **[NarrativeForge-nextjs](https://github.com/NathanKneT/NarrativeForge-nextjs)**: Interactive storytelling app using Next.js 14, TypeScript, React, and OpenAI GPT-4. 
-- **[Master-AI-Chatbot-Course-2024](https://github.com/NathanKneT/Master-AI-Chatbot-Course-2024)**: Workshop materials for building conversational agents with Python, FastAPI, and LangChain.
-- ~~**[DocsRetriever](https://docsretriever.com/)**: Enterprise-grade document search assistant built 100% in France for GDPR compliance. Using Langchain, React and python~~
+- **[RTHT-3D](https://github.com/NathanKneT/RTHT-3D):** real-time hand
+  tracking for controlling Blender scenes with natural gestures.
+- **[Conversational Agents Course](https://github.com/NathanKneT/Master-AI-Chatbot-Course-2024):**
+  seven practical workshops on Python, FastAPI, LangChain and LLM applications,
+  delivered to Master’s students.
+- **[NarrativeForge](https://github.com/NathanKneT/NarrativeForge-nextjs):**
+  a TypeScript and Next.js prototype for creating branching interactive
+  stories through a visual editor.
+- **DocsRetriever:** a completed B2B document-search SaaS combining APIs,
+  retrieval-augmented generation and automated deployment. The service is no
+  longer online.
 
-## Tech Stack
-| Category | Technologies |
-|----------|--------------|
+## Technical focus
+
+| Area | Technologies |
+| --- | --- |
 | Frontend | TypeScript, React, Next.js, Angular |
-| Backend/AI | Python, FastAPI, NestJS, LangChain, RAG Systems, OpenAI |
-| DevOps | Docker, GitHub Actions, AWS, Terraform |
-| Other | MongoDB, MIDI, ML (Isolation Forest) |
+| Backend | Python, FastAPI, Node.js, NestJS |
+| Data & AI | PostgreSQL, MongoDB, generative AI, RAG |
+| Cloud & delivery | Amazon S3, Amazon EC2, Amazon ECS, AWS Lambda, Amazon RDS, Azure, Docker, Terraform, GitHub Actions |
+
+## Beyond engineering
+
+Photography sharpens how I observe, compose and communicate. My
+[portfolio](https://nathanglhf.com/) brings my engineering and visual work
+together.
+
+I am primarily open to technical and creative collaboration, professional
+networking and relevant future opportunities.
+
+## Connect
+
+[LinkedIn](https://www.linkedin.com/in/nathan-rihet/) ·
+[Portfolio](https://nathanglhf.com/) ·
+[Email](mailto:nathan.rihet06@gmail.com)
