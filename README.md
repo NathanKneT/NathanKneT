@@ -35,7 +35,7 @@ networking, while remaining open to relevant future opportunities.
 | Frontend | TypeScript, React, Next.js, Angular |
 | Backend | Python, FastAPI, Node.js, NestJS |
 | Data & AI | PostgreSQL, MongoDB, generative AI, RAG |
-| Delivery | Docker, GitHub Actions, Terraform, AWS, Azure |
+| Delivery | Docker, GitHub Actions, Terraform, Azure |
 
 ## Beyond code
 
