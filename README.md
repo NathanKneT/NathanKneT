@@ -39,12 +39,11 @@ private.
 
 ## Beyond engineering
 
-Photography sharpens how I observe, compose and communicate. My
-[portfolio](https://nathanglhf.com/) brings my engineering and visual work
+Photographer too. My [portfolio](https://nathanglhf.com/) brings my engineering and visual work
 together.
 
-I am primarily open to technical and creative collaboration, professional
-networking and relevant future opportunities.
+I am open to technical and creative collaboration, professional
+networking.
 
 ## Connect
 
