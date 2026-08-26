@@ -1,18 +1,17 @@
 # Nathan Rihet
 
-Full Stack Engineer in Osaka, Japan.
+Full Stack Engineer based in Osaka, Japan.
 
-I build full-stack products where interfaces, APIs and data workflows need to
-operate as one reliable system. My main tools are **TypeScript, Next.js, Python
-and FastAPI**, with experience in applied AI, automated testing, cloud
+I build product-focused web applications across interfaces, APIs, data and
+delivery. My main tools are **TypeScript, Next.js, Python and FastAPI**, with
+practical experience in secure workflows, applied AI, automated testing, cloud
 infrastructure and CI/CD.
 
 ## Current focus
 
-At **Rokken**, I contribute to medical-imaging and applied-AI products across
-frontend, backend, testing and delivery. I describe this work publicly at the
-technology and responsibility level while keeping customer and product details
-private.
+At **Rokken**, I contribute across frontend, backend, testing and delivery for
+data-intensive and applied-AI products. My public descriptions stay at the
+technology and responsibility level to protect customer and product details.
 
 ## Selected work
 
@@ -39,11 +38,12 @@ private.
 
 ## Beyond engineering
 
-Photographer too. My [portfolio](https://nathanglhf.com/) brings my engineering and visual work
+Photography sharpens how I observe, compose and communicate. My
+[portfolio](https://nathanglhf.com/) brings my engineering and visual work
 together.
 
-I am open to technical and creative collaboration, professional
-networking.
+I am open to technical and creative collaboration, professional networking,
+and conversations about relevant full-stack product engineering opportunities.
 
 ## Connect
 
