@@ -10,8 +10,7 @@ infrastructure and CI/CD.
 ## Current focus
 
 At **Rokken**, I contribute across frontend, backend, testing and delivery for
-data-intensive and applied-AI products. My public descriptions stay at the
-technology and responsibility level to protect customer and product details.
+data-intensive and applied-AI products.
 
 ## Selected work
 
@@ -38,7 +37,7 @@ technology and responsibility level to protect customer and product details.
 
 ## Beyond engineering
 
-Photography sharpens how I observe, compose and communicate. My
+Photography where I compose and communicate. My
 [portfolio](https://nathanglhf.com/) brings my engineering and visual work
 together.
 
