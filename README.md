@@ -1,51 +1,65 @@
 # Nathan Rihet
 
-Full Stack Engineer based in Osaka, Japan.
+Full Stack Engineer at Rokken, based in Osaka.
+I work mainly with TypeScript and Python.
 
-I build product-focused web applications across interfaces, APIs, data and
-delivery. My main tools are **TypeScript, Next.js, Python and FastAPI**, with
-practical experience in secure workflows, applied AI, automated testing, cloud
-infrastructure and CI/CD.
+## Current work
 
-## Current focus
+At Rokken, I build web applications around computer-vision pipelines:
+resumable video uploads, secure playback, human review of results
+and access-controlled sharing.
 
-At **Rokken**, I contribute across frontend, backend, testing and delivery for
-data-intensive and applied-AI products.
+My recent backend work includes a PostgreSQL-backed GPU scheduler
+for sharing capacity between tenants and bounding how much work
+is admitted. I also build background workflows with Temporal,
+including retries, cancellation and failure recovery.
+
+## Outside work
+
+I'm building **[Kororo](https://nathanknet.itch.io/kororo-private-playtest)**,
+a 3D puzzle game for the browser. Players push and pull blocks to
+create a path through each level.
+
+The simulation is deterministic and separate from rendering,
+supporting undo and replay. Level solving and validation run in
+Web Workers. A playable preview is available on itch.io;
+the game is still in development.
 
 ## Selected work
 
-- **[RTHT-3D](https://github.com/NathanKneT/RTHT-3D):** real-time hand
-  tracking for controlling Blender scenes with natural gestures.
+- **[RTHT-3D](https://github.com/NathanKneT/RTHT-3D):**
+  a webcam-based hand-tracking interface connecting Python,
+  MediaPipe and Blender through UDP.
 - **[Conversational Agents Course](https://github.com/NathanKneT/Master-AI-Chatbot-Course-2024):**
-  seven practical workshops on Python, FastAPI, LangChain and LLM applications,
-  delivered to Master’s students.
-- **[NarrativeForge](https://github.com/NathanKneT/NarrativeForge-nextjs):**
-  a TypeScript and Next.js prototype for creating branching interactive
-  stories through a visual editor.
-- **DocsRetriever:** a completed B2B document-search SaaS combining APIs,
-  retrieval-augmented generation and automated deployment. The service is no
-  longer online.
+  seven practical workshops I designed and taught to Master's
+  students at Université Côte d'Azur, covering Python, FastAPI,
+  LangChain and LLM applications.
+- **[DocsRetriever](https://nathanglhf.com/engineering/docs-retriever/) (2024–2025):**
+  a B2B document-search SaaS I built and launched with Next.js,
+  NestJS, FastAPI and MongoDB. I continued maintenance and support
+  through August 2025. The service is now offline.
+
+Before Rokken, I worked at Capgemini and Cawita Technologies.
+My freelance work ran from May 2024 to August 2025,
+initially alongside my role at Capgemini.
 
 ## Technical focus
 
 | Area | Technologies |
 | --- | --- |
-| Frontend | TypeScript, React, Next.js, Angular |
+| Frontend | TypeScript, React, Next.js |
 | Backend | Python, FastAPI, Node.js, NestJS |
-| Data & AI | PostgreSQL, MongoDB, generative AI, RAG |
-| Cloud & delivery | Amazon S3, Amazon EC2, Amazon ECS, AWS Lambda, Amazon RDS, Azure, Docker, Terraform, GitHub Actions |
+| Data & workflows | PostgreSQL, MongoDB, Temporal |
+| Interactive applications | Three.js, React Three Fiber, Web Workers |
+| Cloud & delivery | AWS (Amazon S3, Amazon ECS), Azure, Docker, Terraform, GitHub Actions |
+| Testing | pytest, Cypress, Vitest |
 
-## Beyond engineering
+I also practice photography. My
+[portfolio](https://nathanglhf.com/) brings my engineering
+and photographic work together.
 
-Photography where I compose and communicate. My
-[portfolio](https://nathanglhf.com/) brings my engineering and visual work
-together.
+Happy to exchange ideas with other developers and independent creators.
 
-I am open to technical and creative collaboration, professional networking,
-and conversations about relevant full-stack product engineering opportunities.
-
-## Connect
-
-[LinkedIn](https://www.linkedin.com/in/nathan-rihet/) ·
 [Portfolio](https://nathanglhf.com/) ·
+[LinkedIn](https://www.linkedin.com/in/nathan-rihet/) ·
 [Email](mailto:nathan.rihet06@gmail.com)
