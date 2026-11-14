@@ -2,7 +2,7 @@
 
 Full Stack Engineer at Rokken, based in Osaka.
 I work mainly with TypeScript and Python. Outside work, I build
-real-time software: VR mods, a console port and games.
+real-time software: VR mods, console port and 3D games.
 
 ## Current work
 
