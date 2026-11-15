@@ -2,7 +2,7 @@
 
 Full Stack Engineer at Rokken, based in Osaka.
 I work mainly with TypeScript and Python. Outside work, I build
-real-time software: VR mods, console port and 3D games.
+real-time software: VR mods, console ports and 3D games.
 
 ## Current work
 
@@ -30,10 +30,11 @@ Built with C#, Unity, BepInEx and Harmony, with an AI assistant.
 **[DuskOnVita](https://github.com/NathanKneT/DuskOnVita)** is an
 unofficial PS Vita port built on Dusklight, the native build of the
 Twilight Princess decompilation. The game's code runs natively on the
-Vita's ARM CPU. I write the Vita side: a renderer that turns GX
-commands into GXM, plus audio, input and memory. Performance work is
-measured on the console: Hyrule Field went from 18 to 29 FPS, and
-late audio buffers dropped from 29% to 0.2%.
+Vita's ARM CPU. I write the Vita side, with AI assistance: a renderer
+that turns GX commands into GXM, plus audio, input and memory.
+Performance work is measured on the console: the Hyrule Field bridge
+went from 18 to 29 FPS, and late audio buffers in the Palace of
+Twilight dropped from 29% to 0.2%.
 
 I'm also building **[Kororo](https://nathanknet.itch.io/kororo-private-playtest)**,
 a 3D puzzle game for the browser. Players push and pull blocks to
@@ -50,8 +51,8 @@ the game is still in development.
   a webcam-based hand-tracking interface connecting Python,
   MediaPipe and Blender through UDP.
 - **[Conversational Agents Course](https://github.com/NathanKneT/Master-AI-Chatbot-Course-2024):**
-  seven practical workshops I designed and taught to about
-  25 Master's students at Université Côte d'Azur, covering
+  seven practical workshops I designed and taught to more than
+  20 Master's students at Université Côte d'Azur, covering
   Python, FastAPI, LangChain and LLM applications.
 - **[DocsRetriever](https://nathanglhf.com/engineering/docs-retriever/) (2024–2025):**
   a B2B document-search SaaS I built and launched with Next.js,
